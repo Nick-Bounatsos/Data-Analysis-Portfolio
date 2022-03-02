@@ -1,0 +1,503 @@
+Data scraped on 02-Mar-2022 17:13:06
+
+id|category|title|director|actors|rating|users_rated|year|url
+0111161|Movie|Τελευταία έξοδος: Ρίτα Χέιγουορθ|Frank Darabont |Tim Robbins, Morgan Freeman|9.2|2,551,917|1994|https://www.imdb.com/title/tt0111161/
+0068646|Movie|Ο νονός|Francis Ford Coppola |Marlon Brando, Al Pacino|9.2|1,756,119|1972|https://www.imdb.com/title/tt0068646/
+0468569|Movie|Ο σκοτεινός ιππότης|Christopher Nolan |Christian Bale, Heath Ledger|9.0|2,503,112|2008|https://www.imdb.com/title/tt0468569/
+0071562|Movie|Ο νονός, μέρος 2ο|Francis Ford Coppola |Al Pacino, Robert De Niro|9.0|1,217,074|1974|https://www.imdb.com/title/tt0071562/
+0050083|Movie|Οι 12 ένορκοι|Sidney Lumet |Henry Fonda, Lee J. Cobb|9.0|754,211|1957|https://www.imdb.com/title/tt0050083/
+0108052|Movie|Η λίστα του Σίντλερ|Steven Spielberg |Liam Neeson, Ralph Fiennes|8.9|1,302,245|1993|https://www.imdb.com/title/tt0108052/
+0167260|Movie|Ο άρχοντας των δαχτυλιδιών: Η επιστροφή του βασιλιά|Peter Jackson |Elijah Wood, Viggo Mortensen|8.9|1,758,655|2003|https://www.imdb.com/title/tt0167260/
+0110912|Movie|Pulp Fiction|Quentin Tarantino |John Travolta, Uma Thurman|8.9|1,962,084|1994|https://www.imdb.com/title/tt0110912/
+0120737|Movie|Ο άρχοντας των δαχτυλιδιών: Η συντροφιά του δαχτυλιδιού|Peter Jackson |Elijah Wood, Ian McKellen|8.8|1,780,587|2001|https://www.imdb.com/title/tt0120737/
+0060196|Movie|Ο καλός, ο κακός και ο άσχημος|Sergio Leone |Clint Eastwood, Eli Wallach|8.8|735,795|1966|https://www.imdb.com/title/tt0060196/
+0109830|Movie|Φόρεστ Γκαμπ|Robert Zemeckis |Tom Hanks, Robin Wright|8.8|1,969,447|1994|https://www.imdb.com/title/tt0109830/
+0137523|Movie|Fight Club|David Fincher |Brad Pitt, Edward Norton|8.8|2,009,114|1999|https://www.imdb.com/title/tt0137523/
+1375666|Movie|Inception|Christopher Nolan |Leonardo DiCaprio, Joseph Gordon-Levitt|8.7|2,241,008|2010|https://www.imdb.com/title/tt1375666/
+0167261|Movie|Ο άρχοντας των δαχτυλιδιών: Οι δύο πύργοι|Peter Jackson |Elijah Wood, Ian McKellen|8.7|1,588,934|2002|https://www.imdb.com/title/tt0167261/
+0080684|Movie|Ο πόλεμος των άστρων: Επεισόδιο 5 - Η αυτοκρατορία αντεπιτίθεται|Irvin Kershner |Mark Hamill, Harrison Ford|8.7|1,236,764|1980|https://www.imdb.com/title/tt0080684/
+0133093|Movie|The Matrix|Lana Wachowski |Keanu Reeves, Laurence Fishburne|8.7|1,840,251|1999|https://www.imdb.com/title/tt0133093/
+0099685|Movie|Τα καλά παιδιά|Martin Scorsese |Robert De Niro, Ray Liotta|8.7|1,102,609|1990|https://www.imdb.com/title/tt0099685/
+0073486|Movie|Στη φωλιά του κούκου|Milos Forman |Jack Nicholson, Louise Fletcher|8.6|974,820|1975|https://www.imdb.com/title/tt0073486/
+0114369|Movie|Seven|David Fincher |Morgan Freeman, Brad Pitt|8.6|1,564,876|1995|https://www.imdb.com/title/tt0114369/
+0047478|Movie|Οι επτά σαμουράι|Akira Kurosawa |Toshirô Mifune, Takashi Shimura|8.6|336,204|1954|https://www.imdb.com/title/tt0047478/
+0038650|Movie|Μια υπέροχη ζωή|Frank Capra |James Stewart, Donna Reed|8.6|440,716|1946|https://www.imdb.com/title/tt0038650/
+0102926|Movie|Η σιωπή των αμνών|Jonathan Demme |Jodie Foster, Anthony Hopkins|8.6|1,370,284|1991|https://www.imdb.com/title/tt0102926/
+0120815|Movie|Η διάσωση του στρατιώτη Ράιαν|Steven Spielberg |Tom Hanks, Matt Damon|8.6|1,330,985|1998|https://www.imdb.com/title/tt0120815/
+0317248|Movie|Η πόλη του Θεού|Fernando Meirelles |Alexandre Rodrigues, Leandro Firmino|8.6|735,744|2002|https://www.imdb.com/title/tt0317248/
+0118799|Movie|Η ζωή είναι ωραία|Roberto Benigni |Roberto Benigni, Nicoletta Braschi|8.6|669,866|1997|https://www.imdb.com/title/tt0118799/
+0120689|Movie|Το πράσινο μίλι|Frank Darabont |Tom Hanks, Michael Clarke Duncan|8.6|1,241,319|1999|https://www.imdb.com/title/tt0120689/
+0076759|Movie|Ο πόλεμος των άστρων|George Lucas |Mark Hamill, Harrison Ford|8.6|1,308,290|1977|https://www.imdb.com/title/tt0076759/
+0816692|Movie|Interstellar|Christopher Nolan |Matthew McConaughey, Anne Hathaway|8.6|1,696,947|2014|https://www.imdb.com/title/tt0816692/
+0103064|Movie|Εξολοθρευτής 2: Μέρα Κρίσης|James Cameron |Arnold Schwarzenegger, Linda Hamilton|8.5|1,058,201|1991|https://www.imdb.com/title/tt0103064/
+0088763|Movie|Επιστροφή στο μέλλον|Robert Zemeckis |Michael J. Fox, Christopher Lloyd|8.5|1,146,669|1985|https://www.imdb.com/title/tt0088763/
+0245429|Movie|Ταξίδι στη χώρα των θαυμάτων|Hayao Miyazaki |Daveigh Chase, Suzanne Pleshette|8.5|720,873|2001|https://www.imdb.com/title/tt0245429/
+0054215|Movie|Ψυχώ|Alfred Hitchcock |Anthony Perkins, Janet Leigh|8.5|646,914|1960|https://www.imdb.com/title/tt0054215/
+0110413|Movie|Léon|Luc Besson |Jean Reno, Gary Oldman|8.5|1,114,253|1994|https://www.imdb.com/title/tt0110413/
+0253474|Movie|Ο πιανίστας|Roman Polanski |Adrien Brody, Thomas Kretschmann|8.5|795,724|2002|https://www.imdb.com/title/tt0253474/
+6751668|Movie|Παράσιτα|Bong Joon Ho |Kang-ho Song, Sun-kyun Lee|8.5|721,943|2019|https://www.imdb.com/title/tt6751668/
+0110357|Movie|The Lion King|Roger Allers |Matthew Broderick, Jeremy Irons|8.5|1,012,255|1994|https://www.imdb.com/title/tt0110357/
+0172495|Movie|Μονομάχος|Ridley Scott |Russell Crowe, Joaquin Phoenix|8.5|1,438,512|2000|https://www.imdb.com/title/tt0172495/
+0120586|Movie|Μαθήματα Αμερικανικής ιστορίας|Tony Kaye |Edward Norton, Edward Furlong|8.5|1,087,974|1998|https://www.imdb.com/title/tt0120586/
+10872600|Movie|Spider-Man: No Way Home|Jon Watts |Tom Holland, Zendaya|8.5|479,791|2021|https://www.imdb.com/title/tt10872600/
+0114814|Movie|Συνήθεις ύποπτοι|Bryan Singer |Kevin Spacey, Gabriel Byrne|8.5|1,051,950|1995|https://www.imdb.com/title/tt0114814/
+0407887|Movie|Ο πληροφοριοδότης|Martin Scorsese |Leonardo DiCaprio, Matt Damon|8.5|1,272,692|2006|https://www.imdb.com/title/tt0407887/
+0482571|Movie|The Prestige|Christopher Nolan |Christian Bale, Hugh Jackman|8.5|1,279,869|2006|https://www.imdb.com/title/tt0482571/
+0034583|Movie|Καζαμπλάνκα|Michael Curtiz |Humphrey Bogart, Ingrid Bergman|8.5|554,882|1942|https://www.imdb.com/title/tt0034583/
+2582802|Movie|Χωρίς μέτρο|Damien Chazelle |Miles Teller, J.K. Simmons|8.5|794,559|2014|https://www.imdb.com/title/tt2582802/
+1675434|Movie|Άθικτοι|Olivier Nakache |François Cluzet, Omar Sy|8.5|821,811|2011|https://www.imdb.com/title/tt1675434/
+0027977|Movie|Μοντέρνοι καιροί|Charles Chaplin |Charles Chaplin, Paulette Goddard|8.5|234,917|1936|https://www.imdb.com/title/tt0027977/
+0064116|Movie|Κάποτε στη Δύση|Sergio Leone |Henry Fonda, Charles Bronson|8.5|320,832|1968|https://www.imdb.com/title/tt0064116/
+0056058|Movie|Harakiri|Masaki Kobayashi |Tatsuya Nakadai, Akira Ishihama|8.5|52,616|1962|https://www.imdb.com/title/tt0056058/
+0095327|Movie|Grave of the Fireflies|Isao Takahata |Tsutomu Tatsumi, Ayano Shiraishi|8.5|262,579|1988|https://www.imdb.com/title/tt0095327/
+0078748|Movie|Άλιεν, ο επιβάτης του διαστήματος|Ridley Scott |Sigourney Weaver, Tom Skerritt|8.4|844,770|1979|https://www.imdb.com/title/tt0078748/
+0047396|Movie|Σιωπηλός μάρτυς|Alfred Hitchcock |James Stewart, Grace Kelly|8.4|476,384|1954|https://www.imdb.com/title/tt0047396/
+0021749|Movie|Τα φώτα της πόλεως|Charles Chaplin |Charles Chaplin, Virginia Cherrill|8.4|180,099|1931|https://www.imdb.com/title/tt0021749/
+0209144|Movie|Memento|Christopher Nolan |Guy Pearce, Carrie-Anne Moss|8.4|1,196,138|2000|https://www.imdb.com/title/tt0209144/
+0078788|Movie|Αποκάλυψη τώρα!|Francis Ford Coppola |Martin Sheen, Marlon Brando|8.4|644,758|1979|https://www.imdb.com/title/tt0078788/
+0095765|Movie|Σινεμά ο Παράδεισος|Giuseppe Tornatore |Philippe Noiret, Enzo Cannavale|8.4|251,975|1988|https://www.imdb.com/title/tt0095765/
+0082971|Movie|Οι Κυνηγοί της Χαμένης Κιβωτού|Steven Spielberg |Harrison Ford, Karen Allen|8.4|935,907|1981|https://www.imdb.com/title/tt0082971/
+1853728|Movie|Django, ο τιμωρός|Quentin Tarantino |Jamie Foxx, Christoph Waltz|8.4|1,474,931|2012|https://www.imdb.com/title/tt1853728/
+0910970|Movie|Γουόλ-Υ|Andrew Stanton |Ben Burtt, Elissa Knight|8.4|1,071,551|2008|https://www.imdb.com/title/tt0910970/
+0405094|Movie|Οι ζωές των άλλων|Florian Henckel von Donnersmarck |Ulrich Mühe, Martina Gedeck|8.4|380,300|2006|https://www.imdb.com/title/tt0405094/
+0043014|Movie|Η λεωφόρος της δύσεως|Billy Wilder |William Holden, Gloria Swanson|8.4|215,711|1950|https://www.imdb.com/title/tt0043014/
+0081505|Movie|Η λάμψη|Stanley Kubrick |Jack Nicholson, Shelley Duvall|8.4|973,245|1980|https://www.imdb.com/title/tt0081505/
+0050825|Movie|Σταυροί στο μέτωπο|Stanley Kubrick |Kirk Douglas, Ralph Meeker|8.4|191,474|1957|https://www.imdb.com/title/tt0050825/
+0032553|Movie|Ο δικτάτωρ|Charles Chaplin |Charles Chaplin, Paulette Goddard|8.4|218,177|1940|https://www.imdb.com/title/tt0032553/
+4154756|Movie|Εκδικητές: Ο πόλεμος της αιωνιότητας|Anthony Russo |Robert Downey Jr., Chris Hemsworth|8.4|986,159|2018|https://www.imdb.com/title/tt4154756/
+0051201|Movie|Μάρτυς κατηγορίας|Billy Wilder |Tyrone Power, Marlene Dietrich|8.4|120,608|1957|https://www.imdb.com/title/tt0051201/
+0090605|Movie|Άλιενς: Η επιστροφή|James Cameron |Sigourney Weaver, Michael Biehn|8.4|693,646|1986|https://www.imdb.com/title/tt0090605/
+0169547|Movie|American Beauty|Sam Mendes |Kevin Spacey, Annette Bening|8.3|1,124,013|1999|https://www.imdb.com/title/tt0169547/
+1345836|Movie|Ο σκοτεινός ιππότης: Η επιστροφή|Christopher Nolan |Christian Bale, Tom Hardy|8.3|1,622,159|2012|https://www.imdb.com/title/tt1345836/
+0057012|Movie|S|Stanley Kubrick |Peter Sellers, George C. Scott|8.3|476,266|1964|https://www.imdb.com/title/tt0057012/
+7286456|Movie|Joker|Todd Phillips |Joaquin Phoenix, Robert De Niro|8.3|1,151,083|2019|https://www.imdb.com/title/tt7286456/
+4633694|Movie|Spider-Man: Μέσα στο Αραχνο-Σύμπαν|Bob Persichetti |Shameik Moore, Jake Johnson|8.3|473,679|2018|https://www.imdb.com/title/tt4633694/
+0364569|Movie|Oldboy|Park Chan-wook |Choi Min-sik, Yoo Ji-Tae|8.3|556,070|2003|https://www.imdb.com/title/tt0364569/
+0112573|Movie|Braveheart|Mel Gibson |Mel Gibson, Sophie Marceau|8.3|1,008,751|1995|https://www.imdb.com/title/tt0112573/
+0114709|Movie|Η ιστορία των παιχνιδιών|John Lasseter |Tom Hanks, Tim Allen|8.3|952,571|1995|https://www.imdb.com/title/tt0114709/
+0086879|Movie|Αμαντέους|Milos Forman |F. Murray Abraham, Tom Hulce|8.3|390,353|1984|https://www.imdb.com/title/tt0086879/
+2380307|Movie|Coco|Lee Unkrich |Anthony Gonzalez, Gael García Bernal|8.3|464,879|2017|https://www.imdb.com/title/tt2380307/
+0361748|Movie|Άδοξοι Μπάσταρδοι|Quentin Tarantino |Brad Pitt, Diane Kruger|8.3|1,376,434|2009|https://www.imdb.com/title/tt0361748/
+0082096|Movie|Υποβρύχιο U-96: Επιστροφή στην κόλαση|Wolfgang Petersen |Jürgen Prochnow, Herbert Grönemeyer|8.3|245,320|1981|https://www.imdb.com/title/tt0082096/
+4154796|Movie|Εκδικητές: Η τελευταία πράξη|Anthony Russo |Robert Downey Jr., Chris Evans|8.3|1,019,156|2019|https://www.imdb.com/title/tt4154796/
+0119698|Movie|Πριγκίπισσα Μονονόκε|Hayao Miyazaki |Yôji Matsuda, Yuriko Ishida|8.3|376,973|1997|https://www.imdb.com/title/tt0119698/
+0087843|Movie|Κάποτε στην Αμερική|Sergio Leone |Robert De Niro, James Woods|8.3|339,032|1984|https://www.imdb.com/title/tt0087843/
+0119217|Movie|Ο ξεχωριστός Γουίλ Χάντινγκ|Gus Van Sant |Robin Williams, Matt Damon|8.3|926,907|1997|https://www.imdb.com/title/tt0119217/
+0435761|Movie|Η ιστορία των παιχνιδιών 3|Lee Unkrich |Tom Hanks, Tim Allen|8.3|805,127|2010|https://www.imdb.com/title/tt0435761/
+0180093|Movie|Ρέκβιεμ για ένα όνειρο|Darren Aronofsky |Ellen Burstyn, Jared Leto|8.3|813,104|2000|https://www.imdb.com/title/tt0180093/
+1187043|Movie|Οι τρεις ηλίθιοι|Rajkumar Hirani |Aamir Khan, Madhavan|8.3|379,691|2009|https://www.imdb.com/title/tt1187043/
+0045152|Movie|Τραγουδώντας στη βροχή|Stanley Donen |Gene Kelly, Donald O'Connor|8.3|234,579|1952|https://www.imdb.com/title/tt0045152/
+5311514|Movie|Your Name|Makoto Shinkai |Ryûnosuke Kamiki, Mone Kamishiraishi|8.3|242,951|2016|https://www.imdb.com/title/tt5311514/
+0086190|Movie|Ο πόλεμος των άστρων: Επεισόδιο 6 - Η επιστροφή των Τζεντάι|Richard Marquand |Mark Hamill, Harrison Ford|8.3|1,010,972|1983|https://www.imdb.com/title/tt0086190/
+0105236|Movie|Reservoir Dogs|Quentin Tarantino |Harvey Keitel, Tim Roth|8.3|980,983|1992|https://www.imdb.com/title/tt0105236/
+0338013|Movie|Η αιώνια λιακάδα ενός καθαρού μυαλού|Michel Gondry |Jim Carrey, Kate Winslet|8.3|970,461|2004|https://www.imdb.com/title/tt0338013/
+0062622|Movie|2001: Η οδύσσεια του διαστήματος|Stanley Kubrick |Keir Dullea, Gary Lockwood|8.3|645,378|1968|https://www.imdb.com/title/tt0062622/
+0033467|Movie|Ο πολίτης Κέιν|Orson Welles |Orson Welles, Joseph Cotten|8.3|431,009|1941|https://www.imdb.com/title/tt0033467/
+0057565|Movie|Tengoku to jigoku|Akira Kurosawa |Toshirô Mifune, Yutaka Sada|8.3|41,881|1963|https://www.imdb.com/title/tt0057565/
+0056172|Movie|Ο Λώρενς της Αραβίας|David Lean |Peter O'Toole, Alec Guinness|8.3|285,542|1962|https://www.imdb.com/title/tt0056172/
+0022100|Movie|Ο Δράκος του Ντίσελντορφ|Fritz Lang |Peter Lorre, Ellen Widmann|8.3|153,963|1931|https://www.imdb.com/title/tt0022100/
+0053125|Movie|Στη σκιά των τεσσάρων γιγάντων|Alfred Hitchcock |Cary Grant, Eva Marie Saint|8.3|319,081|1959|https://www.imdb.com/title/tt0053125/
+8267604|Movie|Καπερναούμ|Nadine Labaki |Zain Al Rafeea, Yordanos Shiferaw|8.3|82,461|2018|https://www.imdb.com/title/tt8267604/
+2106476|Movie|Το κυνήγι|Thomas Vinterberg |Mads Mikkelsen, Thomas Bo Larsen|8.3|315,236|2012|https://www.imdb.com/title/tt2106476/
+0052357|Movie|Δεσμώτης του ιλίγγου|Alfred Hitchcock |James Stewart, Kim Novak|8.3|391,186|1958|https://www.imdb.com/title/tt0052357/
+0211915|Movie|Αμελί|Jean-Pierre Jeunet |Audrey Tautou, Mathieu Kassovitz|8.3|737,914|2001|https://www.imdb.com/title/tt0211915/
+0066921|Movie|Το κουρδιστό πορτοκάλι|Stanley Kubrick |Malcolm McDowell, Patrick Magee|8.3|802,796|1971|https://www.imdb.com/title/tt0066921/
+0093058|Movie|Metal Jacket|Stanley Kubrick |Matthew Modine, R. Lee Ermey|8.2|717,036|1987|https://www.imdb.com/title/tt0093058/
+0086250|Movie|Ο σημαδεμένος|Brian De Palma |Al Pacino, Michelle Pfeiffer|8.2|801,353|1983|https://www.imdb.com/title/tt0086250/
+0036775|Movie|Κολασμένη αγάπη|Billy Wilder |Fred MacMurray, Barbara Stanwyck|8.2|153,081|1944|https://www.imdb.com/title/tt0036775/
+0053604|Movie|Η γκαρσονιέρα|Billy Wilder |Jack Lemmon, Shirley MacLaine|8.2|176,463|1960|https://www.imdb.com/title/tt0053604/
+0091251|Movie|Έλα να δεις|Elem Klimov |Aleksey Kravchenko, Olga Mironova|8.2|72,731|1985|https://www.imdb.com/title/tt0091251/
+0075314|Movie|Ο ταξιτζής|Martin Scorsese |Robert De Niro, Jodie Foster|8.2|785,615|1976|https://www.imdb.com/title/tt0075314/
+8503618|Movie|Hamilton|Thomas Kail |Lin-Manuel Miranda, Phillipa Soo|8.2|83,640|2020|https://www.imdb.com/title/tt8503618/
+0056592|Movie|Σκιές και σιωπή|Robert Mulligan |Gregory Peck, John Megna|8.2|309,471|1962|https://www.imdb.com/title/tt0056592/
+0119488|Movie|Λος Άντζελες: Εμπιστευτικό|Curtis Hanson |Kevin Spacey, Russell Crowe|8.2|566,067|1997|https://www.imdb.com/title/tt0119488/
+0070735|Movie|Το κεντρί|George Roy Hill |Paul Newman, Robert Redford|8.2|255,310|1973|https://www.imdb.com/title/tt0070735/
+1049413|Movie|Ψηλά στον ουρανό|Pete Docter |Edward Asner, Jordan Nagai|8.2|1,002,736|2009|https://www.imdb.com/title/tt1049413/
+0113277|Movie|Ένταση|Michael Mann |Al Pacino, Robert De Niro|8.2|626,747|1995|https://www.imdb.com/title/tt0113277/
+0044741|Movie|Ο καταδικασμένος|Akira Kurosawa |Takashi Shimura, Nobuo Kaneko|8.2|75,926|1952|https://www.imdb.com/title/tt0044741/
+0208092|Movie|Η αρπαχτή|Guy Ritchie |Jason Statham, Brad Pitt|8.2|829,582|2000|https://www.imdb.com/title/tt0208092/
+0095016|Movie|Πολύ σκληρός για να πεθάνει|John McTiernan |Bruce Willis, Alan Rickman|8.2|850,276|1988|https://www.imdb.com/title/tt0095016/
+0097576|Movie|Ο Ιντιάνα Τζόουνς και η Τελευταία Σταυροφορία|Steven Spielberg |Harrison Ford, Sean Connery|8.2|732,161|1989|https://www.imdb.com/title/tt0097576/
+1832382|Movie|Ένας χωρισμός|Asghar Farhadi |Payman Maadi, Leila Hatami|8.2|239,174|2011|https://www.imdb.com/title/tt1832382/
+0017136|Movie|Μητρόπολις|Fritz Lang |Brigitte Helm, Alfred Abel|8.2|170,231|1927|https://www.imdb.com/title/tt0017136/
+0040522|Movie|Κλέφτης ποδηλάτων|Vittorio De Sica |Lamberto Maggiorani, Enzo Staiola|8.2|159,341|1948|https://www.imdb.com/title/tt0040522/
+1255953|Movie|Μέσα από τις φλόγες|Denis Villeneuve |Lubna Azabal, Mélissa Désormeaux-Poulin|8.2|169,675|2010|https://www.imdb.com/title/tt1255953/
+8579674|Movie|1917|Sam Mendes |Dean-Charles Chapman, George MacKay|8.2|534,960|2019|https://www.imdb.com/title/tt8579674/
+0986264|Movie|Taare Zameen Par|Aamir Khan |Darsheel Safary, Aamir Khan|8.2|186,120|2007|https://www.imdb.com/title/tt0986264/
+0372784|Movie|Μπάτμαν: Η αρχή|Christopher Nolan |Christian Bale, Michael Caine|8.2|1,396,859|2005|https://www.imdb.com/title/tt0372784/
+0059578|Movie|Μονομαχία στο Ελ Πάσο|Sergio Leone |Clint Eastwood, Lee Van Cleef|8.2|249,265|1965|https://www.imdb.com/title/tt0059578/
+5074352|Movie|Dangal|Nitesh Tiwari |Aamir Khan, Sakshi Tanwar|8.2|178,904|2016|https://www.imdb.com/title/tt5074352/
+0363163|Movie|Η πτώση|Oliver Hirschbiegel |Bruno Ganz, Alexandra Maria Lara|8.2|347,739|2004|https://www.imdb.com/title/tt0363163/
+0012349|Movie|Το χαμίνι|Charles Chaplin |Charles Chaplin, Edna Purviance|8.2|123,367|1921|https://www.imdb.com/title/tt0012349/
+0053291|Movie|Μερικοί το προτιμούν καυτό|Billy Wilder |Marilyn Monroe, Tony Curtis|8.2|259,986|1959|https://www.imdb.com/title/tt0053291/
+10272386|Movie|Ο Πατέρας|Florian Zeller |Anthony Hopkins, Olivia Colman|8.2|126,673|2020|https://www.imdb.com/title/tt10272386/
+0042192|Movie|Όλα για την Εύα|Joseph L. Mankiewicz |Bette Davis, Anne Baxter|8.2|128,476|1950|https://www.imdb.com/title/tt0042192/
+6966692|Movie|Το πράσινο βιβλίο|Peter Farrelly |Viggo Mortensen, Mahershala Ali|8.2|453,104|2018|https://www.imdb.com/title/tt6966692/
+0993846|Movie|Ο λύκος της Wall Street|Martin Scorsese |Leonardo DiCaprio, Jonah Hill|8.2|1,319,522|2013|https://www.imdb.com/title/tt0993846/
+0105695|Movie|Οι ασυγχώρητοι|Clint Eastwood |Clint Eastwood, Gene Hackman|8.2|400,460|1992|https://www.imdb.com/title/tt0105695/
+0112641|Movie|Καζίνο|Martin Scorsese |Robert De Niro, Sharon Stone|8.2|500,848|1995|https://www.imdb.com/title/tt0112641/
+0457430|Movie|Ο λαβύρινθος του Πάνα|Guillermo del Toro |Ivana Baquero, Ariadna Gil|8.2|651,111|2006|https://www.imdb.com/title/tt0457430/
+0055031|Movie|Η δίκη της Νυρεμβέργης|Stanley Kramer |Spencer Tracy, Burt Lancaster|8.2|75,395|1961|https://www.imdb.com/title/tt0055031/
+0089881|Movie|Ran|Akira Kurosawa |Tatsuya Nakadai, Akira Terao|8.2|122,183|1985|https://www.imdb.com/title/tt0089881/
+0268978|Movie|Ένας υπέροχος άνθρωπος|Ron Howard |Russell Crowe, Ed Harris|8.2|901,714|2001|https://www.imdb.com/title/tt0268978/
+0167404|Movie|Η έκτη αίσθηση|M. Night Shyamalan |Bruce Willis, Haley Joel Osment|8.2|960,669|1999|https://www.imdb.com/title/tt0167404/
+0071853|Movie|Οι Ιππότες της Ελεεινής Τραπέζης|Terry Gilliam |Graham Chapman, John Cleese|8.2|527,462|1975|https://www.imdb.com/title/tt0071853/
+0469494|Movie|Θα χυθεί αίμα|Paul Thomas Anderson |Daniel Day-Lewis, Paul Dano|8.2|562,395|2007|https://www.imdb.com/title/tt0469494/
+0120382|Movie|Ζωντανή μετάδοση|Peter Weir |Jim Carrey, Ed Harris|8.2|1,021,746|1998|https://www.imdb.com/title/tt0120382/
+0055630|Movie|Γιοζίμπο|Akira Kurosawa |Toshirô Mifune, Eijirô Tôno|8.2|119,842|1961|https://www.imdb.com/title/tt0055630/
+0040897|Movie|Ο θησαυρός της Σιέρρα Μάντρε|John Huston |Humphrey Bogart, Walter Huston|8.2|122,100|1948|https://www.imdb.com/title/tt0040897/
+1130884|Movie|Το νησί των καταραμένων|Martin Scorsese |Leonardo DiCaprio, Emily Mortimer|8.2|1,240,286|2010|https://www.imdb.com/title/tt1130884/
+0057115|Movie|Η μεγάλη απόδραση|John Sturges |Steve McQueen, James Garner|8.2|238,933|1963|https://www.imdb.com/title/tt0057115/
+0042876|Movie|Η γκέισα και ο σαμουράι|Akira Kurosawa |Toshirô Mifune, Machiko Kyô|8.1|163,976|1950|https://www.imdb.com/title/tt0042876/
+0107290|Movie|Τζουράσικ Παρκ|Steven Spielberg |Sam Neill, Laura Dern|8.1|935,216|1993|https://www.imdb.com/title/tt0107290/
+0266697|Movie|Kill Bill Volume 1|Quentin Tarantino |Uma Thurman, David Carradine|8.1|1,073,065|2003|https://www.imdb.com/title/tt0266697/
+0266543|Movie|Ψάχνοντας τον Νέμο|Andrew Stanton |Albert Brooks, Ellen DeGeneres|8.1|1,007,220|2003|https://www.imdb.com/title/tt0266543/
+0477348|Movie|Καμιά πατρίδα για τους μελλοθάνατους|Ethan Coen |Tommy Lee Jones, Javier Bardem|8.1|929,905|2007|https://www.imdb.com/title/tt0477348/
+0081398|Movie|Οργισμένο είδωλο|Martin Scorsese |Robert De Niro, Cathy Moriarty|8.1|342,903|1980|https://www.imdb.com/title/tt0081398/
+0080678|Movie|Ο άνθρωπος ελέφαντας|David Lynch |Anthony Hopkins, John Hurt|8.1|235,027|1980|https://www.imdb.com/title/tt0080678/
+0434409|Movie|V for Vendetta|James McTeigue |Hugo Weaving, Natalie Portman|8.1|1,089,975|2005|https://www.imdb.com/title/tt0434409/
+0031381|Movie|Όσα παίρνει ο άνεμος|Victor Fleming |Clark Gable, Vivien Leigh|8.1|307,629|1939|https://www.imdb.com/title/tt0031381/
+0071315|Movie|Τσάιναταουν|Roman Polanski |Jack Nicholson, Faye Dunaway|8.1|316,485|1974|https://www.imdb.com/title/tt0071315/
+2096673|Movie|Τα μυαλά που κουβαλάς|Pete Docter |Amy Poehler, Bill Hader|8.1|677,681|2015|https://www.imdb.com/title/tt2096673/
+0120735|Movie|Δυο καπνισμένες κάνες|Guy Ritchie |Jason Flemyng, Dexter Fletcher|8.1|566,739|1998|https://www.imdb.com/title/tt0120735/
+0084787|Movie|Η απειλή|John Carpenter |Kurt Russell, Wilford Brimley|8.1|404,820|1982|https://www.imdb.com/title/tt0084787/
+0046912|Movie|Τηλεφωνήσατε ασφάλεια αμέσου δράσεως|Alfred Hitchcock |Ray Milland, Grace Kelly|8.1|170,822|1954|https://www.imdb.com/title/tt0046912/
+1305806|Movie|Το μυστικό στα μάτια της|Juan José Campanella |Ricardo Darín, Soledad Villamil|8.1|204,862|2009|https://www.imdb.com/title/tt1305806/
+0347149|Movie|Το κινούμενο κάστρο|Hayao Miyazaki |Chieko Baishô, Takuya Kimura|8.1|372,849|2004|https://www.imdb.com/title/tt0347149/
+0050212|Movie|Η γέφυρα του ποταμού Κβάι|David Lean |William Holden, Alec Guinness|8.1|215,419|1957|https://www.imdb.com/title/tt0050212/
+0117951|Movie|Trainspotting|Danny Boyle |Ewan McGregor, Ewen Bremner|8.1|668,542|1996|https://www.imdb.com/title/tt0117951/
+5027774|Movie|Οι τρεις πινακίδες έξω από το Έμπινγκ, στο Μιζούρι|Martin McDonagh |Frances McDormand, Woody Harrelson|8.1|483,546|2017|https://www.imdb.com/title/tt5027774/
+1291584|Movie|Warrior|Gavin O'Connor |Tom Hardy, Nick Nolte|8.1|459,398|2011|https://www.imdb.com/title/tt1291584/
+1205489|Movie|Gran Torino|Clint Eastwood |Clint Eastwood, Bee Vang|8.1|756,142|2008|https://www.imdb.com/title/tt1205489/
+0116282|Movie|Fargo|Joel Coen |William H. Macy, Frances McDormand|8.1|658,249|1996|https://www.imdb.com/title/tt0116282/
+0096283|Movie|Η γειτονιά του δάσους: Οι περιπέτειες του Τοτόρο|Hayao Miyazaki |Hitoshi Takagi, Noriko Hidaka|8.1|322,608|1988|https://www.imdb.com/title/tt0096283/
+1392214|Movie|Prisoners|Denis Villeneuve |Hugh Jackman, Jake Gyllenhaal|8.1|666,738|2013|https://www.imdb.com/title/tt1392214/
+0405159|Movie|Million Dollar Baby|Clint Eastwood |Hilary Swank, Clint Eastwood|8.1|669,950|2004|https://www.imdb.com/title/tt0405159/
+0083658|Movie|Μπλέιντ Ράνερ|Ridley Scott |Harrison Ford, Rutger Hauer|8.1|741,690|1982|https://www.imdb.com/title/tt0083658/
+0015864|Movie|Ο χρυσοθήρας|Charles Chaplin |Charles Chaplin, Mack Swain|8.1|108,819|1925|https://www.imdb.com/title/tt0015864/
+0264464|Movie|Πιάσε με, αν μπορείς|Steven Spielberg |Leonardo DiCaprio, Tom Hanks|8.1|924,279|2002|https://www.imdb.com/title/tt0264464/
+0047296|Movie|Το λιμάνι της αγωνίας|Elia Kazan |Marlon Brando, Karl Malden|8.1|151,398|1954|https://www.imdb.com/title/tt0047296/
+0118849|Movie|Τα παιδιά του παραδείσου|Majid Majidi |Mohammad Amir Naji, Amir Farrokh Hashemian|8.1|72,714|1997|https://www.imdb.com/title/tt0118849/
+0041959|Movie|Ο τρίτος άνθρωπος|Carol Reed |Orson Welles, Joseph Cotten|8.1|168,336|1949|https://www.imdb.com/title/tt0041959/
+1201607|Movie|Ο Χάρι Πότερ και οι κλήροι του θανάτου: Μέρος 2ο|David Yates |Daniel Radcliffe, Emma Watson|8.1|834,308|2011|https://www.imdb.com/title/tt1201607/
+2267998|Movie|Το κορίτσι που εξαφανίστηκε|David Fincher |Ben Affleck, Rosamund Pike|8.1|939,308|2014|https://www.imdb.com/title/tt2267998/
+0052618|Movie|Μπεν Χουρ|William Wyler |Charlton Heston, Jack Hawkins|8.1|233,122|1959|https://www.imdb.com/title/tt0052618/
+2024544|Movie|12 χρόνια σκλάβος|Steve McQueen |Chiwetel Ejiofor, Michael Kenneth Williams|8.1|679,609|2013|https://www.imdb.com/title/tt2024544/
+0017925|Movie|Ο στρατηγός|Clyde Bruckman |Buster Keaton, Marion Mack|8.1|89,027|1926|https://www.imdb.com/title/tt0017925/
+0077416|Movie|Ο ελαφοκυνηγός|Michael Cimino |Robert De Niro, Christopher Walken|8.1|331,077|1978|https://www.imdb.com/title/tt0077416/
+0050986|Movie|Άγριες φράουλες|Ingmar Bergman |Victor Sjöström, Bibi Andersson|8.1|104,720|1957|https://www.imdb.com/title/tt0050986/
+0112471|Movie|Πριν το ξημέρωμα|Richard Linklater |Ethan Hawke, Julie Delpy|8.1|295,178|1995|https://www.imdb.com/title/tt0112471/
+0048473|Movie|Το Τραγούδι του Δρόμου|Satyajit Ray |Kanu Bannerjee, Karuna Bannerjee|8.1|30,702|1955|https://www.imdb.com/title/tt0048473/
+0107207|Movie|Εις το όνομα του πατρός|Jim Sheridan |Daniel Day-Lewis, Pete Postlethwaite|8.1|169,823|1993|https://www.imdb.com/title/tt0107207/
+0031679|Movie|Αμερική, η χώρα της ελευθερίας|Frank Capra |James Stewart, Jean Arthur|8.1|113,554|1939|https://www.imdb.com/title/tt0031679/
+2278388|Movie|The Grand Budapest Hotel|Wes Anderson |Ralph Fiennes, F. Murray Abraham|8.1|771,586|2014|https://www.imdb.com/title/tt2278388/
+3170832|Movie|Το δωμάτιο|Lenny Abrahamson |Brie Larson, Jacob Tremblay|8.1|404,230|2015|https://www.imdb.com/title/tt3170832/
+0015324|Movie|Sherlock Jr|Buster Keaton |Buster Keaton, Kathryn McGuire|8.1|47,781|1924|https://www.imdb.com/title/tt0015324/
+2119532|Movie|Αντιρρησίας Συνείδησης|Mel Gibson |Andrew Garfield, Sam Worthington|8.1|492,148|2016|https://www.imdb.com/title/tt2119532/
+0892769|Movie|Πώς να εκπαιδεύσετε τον δράκο σας|Dean DeBlois |Jay Baruchel, Gerard Butler|8.1|711,649|2010|https://www.imdb.com/title/tt0892769/
+0046268|Movie|Το Μεροκάματο του Τρόμου|Henri-Georges Clouzot |Yves Montand, Charles Vanel|8.1|59,516|1953|https://www.imdb.com/title/tt0046268/
+0353969|Movie|Μνήμες εγκλήματος|Bong Joon Ho |Kang-ho Song, Kim Sang-kyung|8.1|168,710|2003|https://www.imdb.com/title/tt0353969/
+0050976|Movie|Η έβδομη σφραγίδα|Ingmar Bergman |Max von Sydow, Gunnar Björnstrand|8.1|180,076|1957|https://www.imdb.com/title/tt0050976/
+0072684|Movie|Μπάρρυ Λύντον|Stanley Kubrick |Ryan O'Neal, Marisa Berenson|8.1|162,434|1975|https://www.imdb.com/title/tt0072684/
+0118715|Movie|Ο μεγάλος Λεμπόφσκι|Joel Coen |Jeff Bridges, John Goodman|8.1|783,688|1998|https://www.imdb.com/title/tt0118715/
+1392190|Movie|Μαντ Μαξ: Ο δρόμος της οργής|George Miller |Tom Hardy, Charlize Theron|8.1|956,463|2015|https://www.imdb.com/title/tt1392190/
+4729430|Movie|Κλάους: Το Μυστικό των Χριστουγέννων|Sergio Pablos |Jason Schwartzman, J.K. Simmons|8.1|138,961|2019|https://www.imdb.com/title/tt4729430/
+3011894|Movie|Ιστορίες για Αγρίους|Damián Szifron |Darío Grandinetti, María Marull|8.1|191,608|2014|https://www.imdb.com/title/tt3011894/
+0198781|Movie|Μπαμπούλας Α|Pete Docter |Billy Crystal, John Goodman|8.1|873,511|2001|https://www.imdb.com/title/tt0198781/
+0978762|Movie|Μαίρη και Μαξ|Adam Elliot |Toni Collette, Philip Seymour Hoffman|8.1|173,732|2009|https://www.imdb.com/title/tt0978762/
+0073195|Movie|Τα Σαγόνια του Καρχαρία|Steven Spielberg |Roy Scheider, Robert Shaw|8.1|575,168|1975|https://www.imdb.com/title/tt0073195/
+0019254|Movie|Το Πάθος της Ζαν ντ' Αρκ|Carl Theodor Dreyer |Maria Falconetti, Eugene Silvain|8.1|52,911|1928|https://www.imdb.com/title/tt0019254/
+0395169|Movie|Hotel Rwanda|Terry George |Don Cheadle, Sophie Okonedo|8.1|348,854|2004|https://www.imdb.com/title/tt0395169/
+0075148|Movie|Ρόκι, τα χρυσά γάντια|John G. Avildsen |Sylvester Stallone, Talia Shire|8.1|553,962|1976|https://www.imdb.com/title/tt0075148/
+0097165|Movie|Ο κύκλος των χαμένων ποιητών|Peter Weir |Robin Williams, Robert Sean Leonard|8.1|465,074|1989|https://www.imdb.com/title/tt0097165/
+0046438|Movie|Επίσκεψη στο Τόκυο|Yasujirô Ozu |Chishû Ryû, Chieko Higashiyama|8.1|59,614|1953|https://www.imdb.com/title/tt0046438/
+0091763|Movie|Platoon|Oliver Stone |Charlie Sheen, Tom Berenger|8.1|403,197|1986|https://www.imdb.com/title/tt0091763/
+0088247|Movie|Ο εξολοθρευτής|James Cameron |Arnold Schwarzenegger, Linda Hamilton|8.1|833,547|1984|https://www.imdb.com/title/tt0088247/
+1950186|Movie|Κόντρα σε Όλα|James Mangold |Matt Damon, Christian Bale|8.1|357,179|2019|https://www.imdb.com/title/tt1950186/
+0092005|Movie|Στάσου πλάι μου|Rob Reiner |Wil Wheaton, River Phoenix|8.1|389,161|1986|https://www.imdb.com/title/tt0092005/
+1979320|Movie|Rush|Ron Howard |Daniel Brühl, Chris Hemsworth|8.0|463,868|2013|https://www.imdb.com/title/tt1979320/
+0758758|Movie|Ταξίδι στην άγρια φύση|Sean Penn |Emile Hirsch, Vince Vaughn|8.0|607,346|2007|https://www.imdb.com/title/tt0758758/
+0032138|Movie|Ο μάγος του Οζ|Victor Fleming |Judy Garland, Frank Morgan|8.0|385,694|1939|https://www.imdb.com/title/tt0032138/
+3315342|Movie|Λόγκαν|James Mangold |Hugh Jackman, Patrick Stewart|8.0|716,103|2017|https://www.imdb.com/title/tt3315342/
+1895587|Movie|Spotlight: Όλα στο φως|Tom McCarthy |Mark Ruffalo, Michael Keaton|8.0|454,610|2015|https://www.imdb.com/title/tt1895587/
+0074958|Movie|Το δίκτυο|Sidney Lumet |Faye Dunaway, William Holden|8.0|155,492|1976|https://www.imdb.com/title/tt0074958/
+0107048|Movie|Η μέρα της μαρμότας|Harold Ramis |Bill Murray, Andie MacDowell|8.0|607,798|1993|https://www.imdb.com/title/tt0107048/
+0070047|Movie|Ο Εξορκιστής|William Friedkin |Ellen Burstyn, Max von Sydow|8.0|386,274|1973|https://www.imdb.com/title/tt0070047/
+0382932|Movie|Ο Ρατατούης|Brad Bird |Brad Garrett, Lou Romano|8.0|688,770|2007|https://www.imdb.com/title/tt0382932/
+1028532|Movie|Hachiko: Η ιστορία ενός σκύλου|Lasse Hallström |Richard Gere, Joan Allen|8.0|274,433|2009|https://www.imdb.com/title/tt1028532/
+0317705|Movie|Οι απίθανοι|Brad Bird |Craig T. Nelson, Samuel L. Jackson|8.0|697,405|2004|https://www.imdb.com/title/tt0317705/
+0071411|Movie|Ντέρσου Ουζάλα|Akira Kurosawa |Maksim Munzuk, Yuriy Solomin|8.0|27,464|1975|https://www.imdb.com/title/tt0071411/
+0036868|Movie|Τα καλύτερα χρόνια της ζωής μας|William Wyler |Myrna Loy, Dana Andrews|8.0|62,181|1946|https://www.imdb.com/title/tt0036868/
+0381681|Movie|Πριν το ηλιοβασίλεμα|Richard Linklater |Ethan Hawke, Julie Delpy|8.0|254,447|2004|https://www.imdb.com/title/tt0381681/
+1160419|Movie|Dune|Denis Villeneuve |Timothée Chalamet, Rebecca Ferguson|8.0|498,568|2021|https://www.imdb.com/title/tt1160419/
+0032976|Movie|Ρεβέκκα|Alfred Hitchcock |Laurence Olivier, Joan Fontaine|8.0|133,904|1940|https://www.imdb.com/title/tt0032976/
+0476735|Movie|Babam ve Oglum|Cagan Irmak |Eser Sariyar, Çetin Tekindor|8.0|84,899|2005|https://www.imdb.com/title/tt0476735/
+0032551|Movie|Τα σταφύλια της οργής|John Ford |Henry Fonda, Jane Darwell|8.0|90,541|1940|https://www.imdb.com/title/tt0032551/
+0061512|Movie|Ο μεγάλος δραπέτης|Stuart Rosenberg |Paul Newman, George Kennedy|8.0|173,236|1967|https://www.imdb.com/title/tt0061512/
+0035446|Movie|Να Ζει Κανείς ή Να μη Ζει;|Ernst Lubitsch |Carole Lombard, Jack Benny|8.0|35,410|1942|https://www.imdb.com/title/tt0035446/
+0245712|Movie|Χαμένες αγάπες|Alejandro G. Iñárritu |Emilio Echevarría, Gael García Bernal|8.0|235,805|2000|https://www.imdb.com/title/tt0245712/
+0058946|Movie|Η μάχη του Αλγερίου|Gillo Pontecorvo |Brahim Hadjadj, Jean Martin|8.0|58,455|1966|https://www.imdb.com/title/tt0058946/
+0325980|Movie|Οι πειρατές της Καραϊβικής: Η κατάρα του Μαύρου Μαργαριταριού|Gore Verbinski |Johnny Depp, Geoffrey Rush|8.0|1,064,816|2003|https://www.imdb.com/title/tt0325980/
+0059742|Movie|Η μελωδία της ευτυχίας|Robert Wise |Julie Andrews, Christopher Plummer|8.0|222,459|1965|https://www.imdb.com/title/tt0059742/
+0079470|Movie|Ένας Προφήτης|Terry Jones |Graham Chapman, John Cleese|8.0|389,540|1979|https://www.imdb.com/title/tt0079470/
+0053198|Movie|Τα 400 χτυπήματα|François Truffaut |Jean-Pierre Léaud, Albert Rémy|8.0|114,410|1959|https://www.imdb.com/title/tt0053198/
+0060827|Movie|Έρωτες χωρίς φραγμό|Ingmar Bergman |Bibi Andersson, Liv Ullmann|8.0|114,207|1966|https://www.imdb.com/title/tt0060827/
+0025316|Movie|Συνέβη μια νύχτα|Frank Capra |Clark Gable, Claudette Colbert|8.0|101,256|1934|https://www.imdb.com/title/tt0025316/
+0113247|Movie|Το μίσος|Mathieu Kassovitz |Vincent Cassel, Hubert Koundé|8.0|165,872|1995|https://www.imdb.com/title/tt0113247/
+0103639|Movie|Αλαντίν|Ron Clements |Scott Weinger, Robin Williams|8.0|395,749|1992|https://www.imdb.com/title/tt0103639/
+15097216|Movie|Jai Bhim|T.J. Gnanavel |Suriya, Lijo Mol Jose|8.0|176,110|2021|https://www.imdb.com/title/tt15097216/
+0101414|Movie|Η πεντάμορφη και το τέρας|Gary Trousdale |Paige O'Hara, Robby Benson|8.0|435,849|1991|https://www.imdb.com/title/tt0101414/
+0083987|Movie|Γκάντι|Richard Attenborough |Ben Kingsley, John Gielgud|8.0|225,921|1982|https://www.imdb.com/title/tt0083987/
+1454029|Movie|Υπηρέτριες|Tate Taylor |Emma Stone, Viola Davis|8.0|445,568|2011|https://www.imdb.com/title/tt1454029/
+4016934|Movie|Η Υπηρέτρια|Park Chan-wook |Kim Min-hee, Ha Jung-woo|8.0|135,330|2016|https://www.imdb.com/title/tt4016934/
+0246578|Movie|Donnie Darko|Richard Kelly |Jake Gyllenhaal, Jena Malone|8.0|777,487|2001|https://www.imdb.com/title/tt0246578/
+5491994|Show|Planet Earth II|-|David Attenborough, Gordon Buchanan|9.4|110,756|2016|https://www.imdb.com/title/tt5491994/
+0903747|Show|Breaking Bad|-|Bryan Cranston, Aaron Paul|9.4|1,675,594|2008|https://www.imdb.com/title/tt0903747/
+0795176|Show|Πλανήτης Γη|-|Sigourney Weaver, David Attenborough|9.4|178,632|2006|https://www.imdb.com/title/tt0795176/
+0185906|Show|Στην πρώτη γραμμή|-|Scott Grimes, Damian Lewis|9.4|417,095|2001|https://www.imdb.com/title/tt0185906/
+7366338|Show|Τσέρνομπιλ|-|Jessie Buckley, Jared Harris|9.3|658,409|2019|https://www.imdb.com/title/tt7366338/
+0306414|Show|The Wire|-|Dominic West, Lance Reddick|9.3|318,622|2002|https://www.imdb.com/title/tt0306414/
+0417299|Show|Άβαταρ: Ο τελευταίος μαχητής του ανέμου|-|Dee Bradley Baker, Zach Tyler Eisen|9.2|288,971|2005|https://www.imdb.com/title/tt0417299/
+6769208|Show|Blue Planet II|-|David Attenborough, Peter Drost|9.2|38,800|2017|https://www.imdb.com/title/tt6769208/
+2395695|Show|Cosmos: A Spacetime Odyssey|-|Neil deGrasse Tyson, Christopher Emerson|9.2|118,551|2014|https://www.imdb.com/title/tt2395695/
+0141842|Show|Σοπράνος|-|James Gandolfini, Lorraine Bracco|9.2|363,883|1999|https://www.imdb.com/title/tt0141842/
+9253866|Show|Ο Πλανήτης μας|-|David Attenborough|9.2|40,658|2019|https://www.imdb.com/title/tt9253866/
+0081846|Show|Cosmos|-|Carl Sagan, Jaromír Hanzlík|9.2|39,986|1980|https://www.imdb.com/title/tt0081846/
+0944947|Show|Παιχνίδι του στέμματος|-|Emilia Clarke, Peter Dinklage|9.2|1,958,484|2011|https://www.imdb.com/title/tt0944947/
+2861424|Show|Rick and Morty|-|Justin Roiland, Chris Parnell|9.1|463,284|2013|https://www.imdb.com/title/tt2861424/
+0071075|Show|Ο κόσμος σε πόλεμο|-|Laurence Olivier, Albert Speer|9.1|24,843|1973|https://www.imdb.com/title/tt0071075/
+8420184|Show|Ο Τελευταίος Χορός|-|Michael Jordan, Phil Jackson|9.1|107,115|2020|https://www.imdb.com/title/tt8420184/
+1355642|Show|Hagane no renkinjutsushi|-|Matthew Leonhart, Kent Williams|9.0|152,379|2009|https://www.imdb.com/title/tt1355642/
+1475582|Show|Σέρλοκ|-|Benedict Cumberbatch, Martin Freeman|9.0|881,169|2010|https://www.imdb.com/title/tt1475582/
+1533395|Show|Life|-|Oprah Winfrey, David Attenborough|9.0|40,207|2009|https://www.imdb.com/title/tt1533395/
+0052520|Show|Η ζώνη του λυκόφωτος|-|Rod Serling, Robert McCord|9.0|79,650|1959|https://www.imdb.com/title/tt0052520/
+1877514|Show|The Vietnam War|-|Peter Coyote, Huy Duc|9.0|23,492|2017|https://www.imdb.com/title/tt1877514/
+12392504|Show|Scam 1992: The Harshad Mehta Story|-|Pratik Gandhi, Shreya Dhanwanthary|9.0|136,992|2020|https://www.imdb.com/title/tt12392504/
+11126994|Show|Arcane|-|Hailee Steinfeld, Kevin Alejandro|9.0|160,710|2021|https://www.imdb.com/title/tt11126994/
+0103359|Show|Batman: The Animated Series|-|Kevin Conroy, Loren Lester|9.0|97,669|1992|https://www.imdb.com/title/tt0103359/
+2560140|Show|Shingeki no Kyojin|-|Yûki Kaji, Marina Inoue|8.9|328,206|2013|https://www.imdb.com/title/tt2560140/
+0303461|Show|Firefly|-|Nathan Fillion, Gina Torres|8.9|257,800|2002|https://www.imdb.com/title/tt0303461/
+1806234|Show|Human Planet|-|John Hurt, Roger Munns|8.9|25,772|2011|https://www.imdb.com/title/tt1806234/
+0386676|Show|Το γραφείο|-|Steve Carell, Jenna Fischer|8.9|521,617|2005|https://www.imdb.com/title/tt0386676/
+9735318|Show|The Beatles: Get Back|-|The Beatles, John Lennon|8.9|17,933|2021|https://www.imdb.com/title/tt9735318/
+0296310|Show|The Blue Planet|-|David Attenborough, Pierce Brosnan|8.9|38,303|2001|https://www.imdb.com/title/tt0296310/
+0877057|Show|Death Note: Desu nôto|-|Mamoru Miyano, Brad Swaile|8.9|294,260|2006|https://www.imdb.com/title/tt0877057/
+2356777|Show|True Detective|-|Vince Vaughn, Colin Farrell|8.9|539,583|2014|https://www.imdb.com/title/tt2356777/
+0098904|Show|Seinfeld|-|Jerry Seinfeld, Julia Louis-Dreyfus|8.9|296,240|1989|https://www.imdb.com/title/tt0098904/
+2092588|Show|Frozen Planet|-|David Attenborough, Alec Baldwin|8.9|29,657|2011|https://www.imdb.com/title/tt2092588/
+0081912|Show|Only Fools and Horses|-|David Jason, Nicholas Lyndhurst|8.9|49,953|1981|https://www.imdb.com/title/tt0081912/
+2802850|Show|Fargo|-|Billy Bob Thornton, Martin Freeman|8.9|358,317|2014|https://www.imdb.com/title/tt2802850/
+10541088|Show|Η Φάρμα του Κλάρκσον|-|Jeremy Clarkson, Kaleb Cooper|8.9|30,760|2021|https://www.imdb.com/title/tt10541088/
+7920978|Show|Sahsiyet|-|Haluk Bilginer, Cansu Dere|8.9|38,729|2018|https://www.imdb.com/title/tt7920978/
+0098769|Show|The Civil War|-|David McCullough, Sam Waterston|8.9|15,870|1990|https://www.imdb.com/title/tt0098769/
+2098220|Show|Hunter x Hunter|-|Issei Futamata, Megumi Han|8.9|84,098|2011|https://www.imdb.com/title/tt2098220/
+0092337|Show|Δεκάλογος|-|Artur Barcis, Olgierd Lukaszewicz|8.9|24,893|1989|https://www.imdb.com/title/tt0092337/
+0213338|Show|Ατίθασοι Καουμπόις|-|Kôichi Yamadera, Unshô Ishizuka|8.9|110,317|1998|https://www.imdb.com/title/tt0213338/
+0108778|Show|Τα φιλαράκια|-|Jennifer Aniston, Courteney Cox|8.8|938,056|1994|https://www.imdb.com/title/tt0108778/
+7137906|Show|Όταν μας βλέπουν|-|Asante Blackk, Caleel Harris|8.8|112,311|2019|https://www.imdb.com/title/tt7137906/
+1865718|Show|Ο μυστικός κόσμος του Gravity Falls|-|Jason Ritter, Alex Hirsch|8.8|94,149|2012|https://www.imdb.com/title/tt1865718/
+3530232|Show|Last Week Tonight with John Oliver|-|John Oliver, David Kaye|8.8|85,431|2014|https://www.imdb.com/title/tt3530232/
+2297757|Show|Nathan for You|-|Nathan Fielder, Anthony Filosa|8.8|25,141|2013|https://www.imdb.com/title/tt2297757/
+4742876|Show|TVF Pitchers|-|Naveen Kasturia, Arunabh Kumar|8.8|65,509|2015|https://www.imdb.com/title/tt4742876/
+0063929|Show|Monty Python's Flying Circus|-|Graham Chapman, John Cleese|8.8|72,369|1969|https://www.imdb.com/title/tt0063929/
+2571774|Show|Africa|-|David Attenborough, Simon Blakeney|8.8|15,640|2013|https://www.imdb.com/title/tt2571774/
+0472954|Show|It's Always Sunny in Philadelphia|-|Charlie Day, Glenn Howerton|8.8|213,002|2004|https://www.imdb.com/title/tt0472954/
+1508238|Show|Αποκάλυψη: Ο Β' Παγκόσμιος Πόλεμος|-|Mathieu Kassovitz, Martin Sheen|8.8|11,947|2009|https://www.imdb.com/title/tt1508238/
+0081834|Show|Das Boot|-|Jürgen Prochnow, Herbert Grönemeyer|8.8|28,971|1985|https://www.imdb.com/title/tt0081834/
+0264235|Show|Curb Your Enthusiasm|-|Larry David, Cheryl Hines|8.8|121,843|2000|https://www.imdb.com/title/tt0264235/
+0193676|Show|Freaks and Geeks|-|Linda Cardellini, John Francis Daley|8.8|138,162|1999|https://www.imdb.com/title/tt0193676/
+0112130|Show|Περηφάνια και προκατάληψη|-|Colin Firth, Jennifer Ehle|8.8|82,142|1995|https://www.imdb.com/title/tt0112130/
+0072500|Show|Ένα τρελό, τρελό ξενοδοχείο|-|John Cleese, Prunella Scales|8.8|90,486|1975|https://www.imdb.com/title/tt0072500/
+2085059|Show|Μαύρος καθρέφτης|-|Daniel Lapaine, Hannah John-Kamen|8.8|506,664|2011|https://www.imdb.com/title/tt2085059/
+3032476|Show|Πάρε τον Σολ|-|Bob Odenkirk, Rhea Seehorn|8.8|381,849|2015|https://www.imdb.com/title/tt3032476/
+2707408|Show|Narcos|-|Pedro Pascal, Wagner Moura|8.8|399,107|2015|https://www.imdb.com/title/tt2707408/
+0098936|Show|Ο ύποπτος κόσμος του Τουίν Πικς|-|Kyle MacLachlan, Michael Ontkean|8.8|190,268|1990|https://www.imdb.com/title/tt0098936/
+0200276|Show|Η δυτική πτέρυγα|-|Martin Sheen, Rob Lowe|8.7|72,103|1999|https://www.imdb.com/title/tt0200276/
+0096548|Show|Η μαύρη οχιά στο μέτωπο|-|Rowan Atkinson, Tony Robinson|8.7|51,562|1989|https://www.imdb.com/title/tt0096548/
+2442560|Show|Peaky Blinders|-|Cillian Murphy, Paul Anderson|8.7|459,802|2013|https://www.imdb.com/title/tt2442560/
+7660850|Show|Succession|-|Nicholas Braun, Brian Cox|8.7|118,499|2018|https://www.imdb.com/title/tt7660850/
+3398228|Show|Μπότζακ Χόρσμαν|-|Will Arnett, Amy Sedaris|8.7|139,469|2014|https://www.imdb.com/title/tt3398228/
+0214341|Show|Dragon Ball Z|-|Doc Harris, Christopher Sabat|8.7|123,963|1989|https://www.imdb.com/title/tt0214341/
+0121220|Show|Dragon Ball Z: Doragon bôru zetto|-|Jôji Yanami, Kyle Hebert|8.7|76,364|1989|https://www.imdb.com/title/tt0121220/
+0353049|Show|Chappelle's Show|-|Dave Chappelle, Donnell Rawlings|8.7|61,322|2003|https://www.imdb.com/title/tt0353049/
+1831164|Show|Leyla ile Mecnun|-|Ali Atay, Serkan Keskin|8.7|92,726|2011|https://www.imdb.com/title/tt1831164/
+13991232|Show|1883|-|Sam Elliott, Tim McGraw|8.7|36,561|2021|https://www.imdb.com/title/tt13991232/
+0121955|Show|Σάουθ Παρκ|-|Trey Parker, Matt Stone|8.7|355,270|1997|https://www.imdb.com/title/tt0121955/
+0384766|Show|Ρώμη|-|Kevin McKidd, Ray Stevenson|8.7|165,621|2005|https://www.imdb.com/title/tt0384766/
+10986410|Show|Ted Lasso|-|Jason Sudeikis, Brett Goldstein|8.7|168,116|2020|https://www.imdb.com/title/tt10986410/
+8111088|Show|The Mandalorian|-|Pedro Pascal, Carl Weathers|8.7|410,653|2019|https://www.imdb.com/title/tt8111088/
+0074006|Show|Εγώ, ο Κλαύδιος|-|Derek Jacobi, John Hurt|8.7|16,996|1976|https://www.imdb.com/title/tt0074006/
+4508902|Show|One Punch Man: Wanpanman|-|Makoto Furukawa, Kaito Ishikawa|8.7|144,408|2015|https://www.imdb.com/title/tt4508902/
+9432978|Show|Εργοστάσιο για Διάνοιες|-|Mayur More, Jitendra Kumar|8.7|66,418|2019|https://www.imdb.com/title/tt9432978/
+3718778|Show|Over the Garden Wall|-|Elijah Wood, Collin Dean|8.7|50,369|2014|https://www.imdb.com/title/tt3718778/
+0367279|Show|Arrested Development|-|Jason Bateman, Michael Cera|8.7|294,764|2003|https://www.imdb.com/title/tt0367279/
+5753856|Show|Σκοτάδι|-|Louis Hofmann, Karoline Eichhorn|8.7|346,890|2017|https://www.imdb.com/title/tt5753856/
+0118421|Show|Oz|-|Ernie Hudson, J.K. Simmons|8.7|96,129|1997|https://www.imdb.com/title/tt0118421/
+0248654|Show|Γραφείο κηδειών Φίσερ|-|Peter Krause, Michael C. Hall|8.7|130,730|2001|https://www.imdb.com/title/tt0248654/
+0096697|Show|The Simpsons|-|Dan Castellaneta, Nancy Cartwright|8.7|391,027|1989|https://www.imdb.com/title/tt0096697/
+1910272|Show|Steins;Gate|-|Mamoru Miyano, Asami Imai|8.7|56,387|2011|https://www.imdb.com/title/tt1910272/
+0412142|Show|Ιατρικές υποθέσεις|-|Hugh Laurie, Omar Epps|8.7|443,990|2004|https://www.imdb.com/title/tt0412142/
+4574334|Show|Stranger Things|-|Millie Bobby Brown, Finn Wolfhard|8.7|967,852|2016|https://www.imdb.com/title/tt4574334/
+0286486|Show|Η ασπίδα του νόμου|-|Michael Chiklis, Michael Jace|8.7|78,302|2002|https://www.imdb.com/title/tt0286486/
+6741278|Show|Ανίκητος|-|Steven Yeun, J.K. Simmons|8.7|108,751|2021|https://www.imdb.com/title/tt6741278/
+0407362|Show|Battlestar Galactica|-|Edward James Olmos, Mary McDonnell|8.7|161,718|2004|https://www.imdb.com/title/tt0407362/
+1606375|Show|O πύργος του Ντάουντον|-|Hugh Bonneville, Phyllis Logan|8.7|193,309|2010|https://www.imdb.com/title/tt1606375/
+10233448|Show|Vinland Saga|-|Ryan Bartley, Kellen Goff|8.7|28,469|2019|https://www.imdb.com/title/tt10233448/
+5687612|Show|Φλίμπαγκ|-|Phoebe Waller-Bridge, Sian Clifford|8.7|134,776|2016|https://www.imdb.com/title/tt5687612/
+1856010|Show|House of Cards|-|Kevin Spacey, Michel Gill|8.6|490,908|2013|https://www.imdb.com/title/tt1856010/
+0804503|Show|Mad Men|-|Jon Hamm, Elisabeth Moss|8.6|228,335|2007|https://www.imdb.com/title/tt0804503/
+5788792|Show|Η Θαυμαστή Κυρία Μέιζελ|-|Rachel Brosnahan, Alex Borstein|8.6|101,172|2017|https://www.imdb.com/title/tt5788792/
+1190634|Show|Σώμα Δίωξης Υπερηρώων|-|Karl Urban, Jack Quaid|8.6|348,364|2019|https://www.imdb.com/title/tt1190634/
+0388629|Show|One Piece: Wan pîsu|-|Mayumi Tanaka, Tony Beck|8.6|104,580|1999|https://www.imdb.com/title/tt0388629/
+4786824|Show|Το στέμμα|-|Claire Foy, Olivia Colman|8.6|187,519|2016|https://www.imdb.com/title/tt4786824/
+0758745|Show|Friday Night Lights|-|Kyle Chandler, Connie Britton|8.6|63,507|2006|https://www.imdb.com/title/tt0758745/
+0092455|Show|Σταρ Τρεκ: Η επόμενη γενιά|-|Patrick Stewart, Brent Spiner|8.6|114,250|1987|https://www.imdb.com/title/tt0092455/
+1628033|Show|Top Gear|-|Jeremy Clarkson, Richard Hammond|8.6|114,941|2002|https://www.imdb.com/title/tt1628033/
+0387764|Show|Peep Show|-|David Mitchell, Robert Webb|8.6|58,012|2003|https://www.imdb.com/title/tt0387764/
+0086661|Show|The Adventures of Sherlock Holmes|-|Jeremy Brett, David Burke|8.6|21,626|1984|https://www.imdb.com/title/tt0086661/
+5712554|Show|The Grand Tour|-|Jeremy Clarkson, James May|8.6|71,196|2016|https://www.imdb.com/title/tt5712554/
+14392248|Show|Aspirants|-|Naveen Kasturia, Shivankit Singh Parihar|8.6|291,615|2021|https://www.imdb.com/title/tt14392248/
+0106179|Show|The X Files|-|David Duchovny, Gillian Anderson|8.6|215,265|1993|https://www.imdb.com/title/tt0106179/
+0773262|Show|Ντέξτερ|-|Michael C. Hall, Jennifer Carpenter|8.6|707,044|2006|https://www.imdb.com/title/tt0773262/
+1266020|Show|Parks and Recreation|-|Amy Poehler, Jim O'Heir|8.6|243,507|2009|https://www.imdb.com/title/tt1266020/
+0459159|Show|The Thick of It|-|Chris Addison, James Smith|8.6|22,690|2005|https://www.imdb.com/title/tt0459159/
+2303687|Show|Στο βωμό του καθήκοντος|-|Martin Compston, Vicky McClure|8.6|54,226|2012|https://www.imdb.com/title/tt2303687/
+0348914|Show|Deadwood|-|Timothy Olyphant, Ian McShane|8.6|103,062|2004|https://www.imdb.com/title/tt0348914/
+6025022|Show|I super legeona|-|George Newbern, Kevin Conroy|8.6|14,530|2004|https://www.imdb.com/title/tt6025022/
+4299972|Show|The Jinx: The Life and Deaths of Robert Durst|-|Andrew Jarecki, Robert Durst|8.6|44,261|2015|https://www.imdb.com/title/tt4299972/
+0318871|Show|Kenpû Denki Berserk|-|Marc Diraison, Nobutoshi Canna|8.6|35,179|1997|https://www.imdb.com/title/tt0318871/
+0111958|Show|Father Ted|-|Dermot Morgan, Ardal O'Hanlon|8.6|39,181|1995|https://www.imdb.com/title/tt0111958/
+3322312|Show|Daredevil|-|Charlie Cox, Vincent D'Onofrio|8.6|411,019|2015|https://www.imdb.com/title/tt3322312/
+9335498|Show|Demon Slayer: Kimetsu No Yaiba|-|Natsuki Hanae, Yoshitsugu Matsuoka|8.6|81,427|2019|https://www.imdb.com/title/tt9335498/
+0994314|Show|Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion|-|Jun Fukuyama, Takahiro Sakurai|8.6|62,597|2006|https://www.imdb.com/title/tt0994314/
+1641384|Show|Νεαρή Λεγεώνα|-|Nolan North, Danica McKellar|8.6|38,300|2010|https://www.imdb.com/title/tt1641384/
+3398540|Show|Haikyuu!!|-|Ayumu Murase, Kaito Ishikawa|8.6|20,727|2014|https://www.imdb.com/title/tt3398540/
+4288182|Show|Atlanta|-|Donald Glover, Brian Tyree Henry|8.6|62,161|2016|https://www.imdb.com/title/tt4288182/
+1733785|Show|Bron/Broen|-|Sofia Helin, Rafael Pettersson|8.6|66,127|2011|https://www.imdb.com/title/tt1733785/
+1486217|Show|Άρτσερ|-|H. Jon Benjamin, Judy Greer|8.6|149,276|2009|https://www.imdb.com/title/tt1486217/
+0088484|Show|Blackadder II|-|Rowan Atkinson, Tony Robinson|8.6|45,585|1986|https://www.imdb.com/title/tt0088484/
+5555260|Show|Αυτοί είμαστε|-|Sterling K. Brown, Justin Hartley|8.6|127,668|2016|https://www.imdb.com/title/tt5555260/
+0988824|Show|Νάρουτο: Το χρονικό της θύελλας|-|Junko Takeuchi, Maile Flanagan|8.6|111,680|2007|https://www.imdb.com/title/tt0988824/
+8289930|Show|Formula 1: Οδηγός|-|Lewis Hamilton, Daniel Ricciardo|8.6|32,803|2019|https://www.imdb.com/title/tt8289930/
+2049116|Show|Gomorra: La serie|-|Salvatore Esposito, Marco D'Amore|8.6|37,519|2014|https://www.imdb.com/title/tt2049116/
+9140342|Show|It's a Sin|-|Olly Alexander, Nathaniel Curtis|8.6|27,951|2021|https://www.imdb.com/title/tt9140342/
+0096639|Show|Οι αετοί της Δύσης|-|Robert Duvall, Tommy Lee Jones|8.6|22,379|1989|https://www.imdb.com/title/tt0096639/
+0434706|Show|Monster|-|Hidenobu Kiuchi, Liam O'Brien|8.6|26,605|2004|https://www.imdb.com/title/tt0434706/
+5290382|Show|Mindhunter|-|Jonathan Groff, Holt McCallany|8.6|262,319|2017|https://www.imdb.com/title/tt5290382/
+0092324|Show|Blackadder the Third|-|Rowan Atkinson, Tony Robinson|8.6|43,279|1987|https://www.imdb.com/title/tt0092324/
+0094517|Show|Mystery Science Theater 3000|-|Joel Hodgson, Michael J. Nelson|8.6|24,187|1988|https://www.imdb.com/title/tt0094517/
+0090509|Show|The Return of Sherlock Holmes|-|Jeremy Brett, Edward Hardwicke|8.6|11,830|1986|https://www.imdb.com/title/tt0090509/
+9174558|Show|Dopesick|-|Michael Keaton, Peter Sarsgaard|8.6|39,966|2021|https://www.imdb.com/title/tt9174558/
+1305826|Show|Adventure Time|-|John DiMaggio, Jeremy Shada|8.6|88,078|2010|https://www.imdb.com/title/tt1305826/
+5189670|Show|Φονικές Αμφιβολίες|-|Steven Avery, Dolores Avery|8.6|92,579|2015|https://www.imdb.com/title/tt5189670/
+0475784|Show|Westworld|-|Evan Rachel Wood, Jeffrey Wright|8.6|468,457|2016|https://www.imdb.com/title/tt0475784/
+1795096|Show|Behzat Ç|-|Erdal Besikçioglu, Inanç Konukçu|8.6|29,164|2010|https://www.imdb.com/title/tt1795096/
+4236770|Show|Yellowstone|-|Kevin Costner, Luke Grimes|8.6|101,389|2018|https://www.imdb.com/title/tt4236770/
+0380136|Show|QI|-|Alan Davies, Stephen Fry|8.5|31,162|2003|https://www.imdb.com/title/tt0380136/
+5421602|Show|Άννα με Α|-|Amybeth McNulty, Geraldine James|8.5|49,376|2017|https://www.imdb.com/title/tt5421602/
+6763664|Show|Οι Δαίμονες του Χιλ Χάουζ|-|Michiel Huisman, Carla Gugino|8.5|222,356|2018|https://www.imdb.com/title/tt6763664/
+0096657|Show|Μίστερ Μπην|-|Rowan Atkinson, Robin Driscoll|8.5|113,182|1990|https://www.imdb.com/title/tt0096657/
+0268093|Show|Ramayan|-|Arun Govil, Deepika Chikhalia|8.5|18,800|1987|https://www.imdb.com/title/tt0268093/
+1489428|Show|Justified|-|Timothy Olyphant, Nick Searcy|8.5|95,843|2010|https://www.imdb.com/title/tt1489428/
+0979432|Show|Boardwalk Empire|-|Steve Buscemi, Kelly Macdonald|8.5|183,467|2010|https://www.imdb.com/title/tt0979432/
+0094525|Show|Οι περιπέτειες του Ηρακλή Πουαρό|-|David Suchet, Hugh Fraser|8.5|43,141|1989|https://www.imdb.com/title/tt0094525/
+2244495|Show|The Eric Andre Show|-|Eric André, Hannibal Buress|8.5|16,769|2012|https://www.imdb.com/title/tt2244495/
+10048342|Show|Το γκαμπί της βασίλισσας|-|Anya Taylor-Joy, Chloe Pirrie|8.5|393,576|2020|https://www.imdb.com/title/tt10048342/
+0053488|Show|The Bugs Bunny Show|-|Mel Blanc, Joe Bronx|8.5|32,951|1960|https://www.imdb.com/title/tt0053488/
+2100976|Show|Impractical Jokers|-|Brian Quinn, James Murray|8.5|37,977|2011|https://www.imdb.com/title/tt2100976/
+1870479|Show|The Newsroom|-|Jeff Daniels, Emily Mortimer|8.5|112,159|2012|https://www.imdb.com/title/tt1870479/
+1518542|Show|Sarabhai V/S Sarabhai|-|Satish Shah, Ratna Pathak Shah|8.5|16,415|2004|https://www.imdb.com/title/tt1518542/
+0863046|Show|Flight of the Conchords|-|Jemaine Clement, Bret McKenzie|8.5|58,963|2007|https://www.imdb.com/title/tt0863046/
+0275137|Show|Justice League|-|Carl Lumbly, Phil LaMarr|8.5|44,904|2001|https://www.imdb.com/title/tt0275137/
+12343534|Show|Jujutsu Kaisen|-|Junya Enoki, Adam McArthur|8.5|43,882|2020|https://www.imdb.com/title/tt12343534/
+10850932|Show|Sa-rang-eui bul-sa-chak|-|Hyun Bin, Son Ye-jin|8.5|23,215|2019|https://www.imdb.com/title/tt10850932/
+12004706|Show|Panchayat|-|Jitendra Kumar, Raghuvir Yadav|8.5|48,942|2020|https://www.imdb.com/title/tt12004706/
+0088509|Show|Dragonball|-|Masako Nozawa, Jôji Yanami|8.5|54,334|1986|https://www.imdb.com/title/tt0088509/
+8595766|Show|Yeh Meri Family|-|Vishesh Bansal, Mona Singh|8.5|22,944|2018|https://www.imdb.com/title/tt8595766/
+0080306|Show|Μάλιστα κ|-|Paul Eddington, Nigel Hawthorne|8.5|14,210|1980|https://www.imdb.com/title/tt0080306/
+0280249|Show|Dragon Ball|-|Brice Armstrong, Steve Olson|8.5|58,077|1995|https://www.imdb.com/title/tt0280249/
+0187664|Show|Spaced|-|Simon Pegg, Jessica Hynes|8.5|53,587|1999|https://www.imdb.com/title/tt0187664/
+9544034|Show|Ο Οικογενειάρχης|-|Manoj Bajpayee, Samantha Ruth Prabhu|8.5|80,676|2019|https://www.imdb.com/title/tt9544034/
+0314979|Show|Battlestar Galactica|-|Edward James Olmos, Mary McDonnell|8.5|73,596|2003|https://www.imdb.com/title/tt0314979/
+0237123|Show|Τα Πιτσουνάκια|-|Jack Davenport, Gina Bellman|8.5|44,828|2000|https://www.imdb.com/title/tt0237123/
+1586680|Show|Shameless|-|Emmy Rossum, William H. Macy|8.5|226,731|2011|https://www.imdb.com/title/tt1586680/
+7221388|Show|Cobra Kai|-|Ralph Macchio, William Zabka|8.5|160,348|2018|https://www.imdb.com/title/tt7221388/
+0158417|Show|Mahabharat|-|Harish Bhimani, Nitish Bharadwaj|8.5|16,637|1988|https://www.imdb.com/title/tt0158417/
+0106028|Show|Homicide: Life on the Street|-|Richard Belzer, Clark Johnson|8.5|12,482|1993|https://www.imdb.com/title/tt0106028/
+4158110|Show|Mr|-|Rami Malek, Christian Slater|8.5|369,176|2015|https://www.imdb.com/title/tt4158110/
+0290978|Show|The Office|-|Ricky Gervais, Martin Freeman|8.5|108,306|2001|https://www.imdb.com/title/tt0290978/
+0487831|Show|Μηχανοργάνωση Για Κλάματα|-|Chris O'Dowd, Richard Ayoade|8.5|145,836|2006|https://www.imdb.com/title/tt0487831/
+1492966|Show|Louie|-|Louis C.K., Hadley Delany|8.5|77,599|2010|https://www.imdb.com/title/tt1492966/
+0403778|Show|Long Way Round|-|Ewan McGregor, Charley Boorman|8.5|13,758|2004|https://www.imdb.com/title/tt0403778/
+0421357|Show|Hagane no renkinjutsushi|-|Vic Mignogna, Aaron Dismuke|8.5|68,124|2003|https://www.imdb.com/title/tt0421357/
+0423731|Show|Samurai chanpurû|-|Kazuya Nakai, Ginpei Sato|8.5|46,059|2004|https://www.imdb.com/title/tt0423731/
+0163507|Show|Whose Line Is It Anyway?|-|Drew Carey, Colin Mochrie|8.5|42,469|1998|https://www.imdb.com/title/tt0163507/
+7908628|Show|What We Do in the Shadows|-|Kayvan Novak, Matt Berry|8.5|62,264|2019|https://www.imdb.com/title/tt7908628/
+10530900|Show|Gullak|-|Jameel Khan, Geetanjali Kulkarni|8.5|11,663|2019|https://www.imdb.com/title/tt10530900/
+4063800|Show|Le Bureau des Légendes|-|Mathieu Kassovitz, Florence Loiret Caille|8.5|10,696|2015|https://www.imdb.com/title/tt4063800/
+1513168|Show|Τα μυστήρια της ύπαρξης με τον Μόργκαν Φρίμαν|-|Morgan Freeman, Sean Carroll|8.5|17,558|2010|https://www.imdb.com/title/tt1513168/
+0417373|Show|The Venture Bros|-|Christopher McCulloch, James Urbaniak|8.5|25,307|2003|https://www.imdb.com/title/tt0417373/
+7562112|Show|Πόζα|-|Michaela Jaé (MJ) Rodriguez, Dominique Jackson|8.5|27,449|2018|https://www.imdb.com/title/tt7562112/
+5288312|Show|Skam|-|Josefine Frida Pettersen, Iman Meskini|8.5|32,164|2015|https://www.imdb.com/title/tt5288312/
+4647692|Show|Letterkenny|-|Michelle Mylett, Jared Keeso|8.5|20,378|2016|https://www.imdb.com/title/tt4647692/
+0436992|Show|Δόκτωρ χου|-|Jodie Whittaker, Peter Capaldi|8.5|216,110|2005|https://www.imdb.com/title/tt0436992/
+6108262|Show|Senke nad Balkanom|-|Andrija Kuzmanovic, Marija Bergam|8.5|11,132|2017|https://www.imdb.com/title/tt6108262/
+0129690|Show|I'm Alan Partridge|-|Steve Coogan, Simon Greenall|8.5|20,079|1997|https://www.imdb.com/title/tt0129690/
+0086831|Show|Μάλιστα|-|Paul Eddington, Nigel Hawthorne|8.5|11,023|1986|https://www.imdb.com/title/tt0086831/
+1442449|Show|Σπάρτακος|-|Andy Whitfield, Lucy Lawless|8.5|235,499|2010|https://www.imdb.com/title/tt1442449/
+0278238|Show|Samurai Jack|-|Phil LaMarr, Mako|8.5|50,887|2001|https://www.imdb.com/title/tt0278238/
+1124373|Show|Sons of Anarchy|-|Charlie Hunnam, Katey Sagal|8.5|284,714|2008|https://www.imdb.com/title/tt1124373/
+0417349|Show|North & South|-|Daniela Denby-Ashe, Richard Armitage|8.5|31,815|2004|https://www.imdb.com/title/tt0417349/
+0290988|Show|Trailer Park Boys|-|John Paul Tremblay, Robb Wells|8.5|41,032|2001|https://www.imdb.com/title/tt0290988/
+2575988|Show|Silicon Valley|-|Thomas Middleditch, T.J. Miller|8.5|141,610|2014|https://www.imdb.com/title/tt2575988/
+1758429|Show|Spartacus: Gods of the Arena|-|John Hannah, Manu Bennett|8.5|134,099|2011|https://www.imdb.com/title/tt1758429/
+0112159|Show|Shin seiki evangerion|-|Megumi Ogata, Megumi Hayashibara|8.5|62,917|1995|https://www.imdb.com/title/tt0112159/
+0149460|Show|Futurama|-|Billy West, John DiMaggio|8.5|227,737|1999|https://www.imdb.com/title/tt0149460/
+0118273|Show|Brass Eye|-|Christopher Morris, Mark Heap|8.5|10,486|1997|https://www.imdb.com/title/tt0118273/
+1534360|Show|Ezel|-|Kenan Imirzalioglu, Cansu Dere|8.5|31,099|2009|https://www.imdb.com/title/tt1534360/
+0203082|Show|Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen|-|Mayo Suzukaze, Junko Iwao|8.5|14,409|1999|https://www.imdb.com/title/tt0203082/
+2701582|Show|Endeavour|-|Shaun Evans, Roger Allam|8.5|23,891|2012|https://www.imdb.com/title/tt2701582/
+4082744|Show|Detectorists|-|Mackenzie Crook, Toby Jones|8.5|13,522|2014|https://www.imdb.com/title/tt4082744/
+2243973|Show|Hannibal|-|Hugh Dancy, Mads Mikkelsen|8.5|245,348|2013|https://www.imdb.com/title/tt2243973/
+0120570|Show|From the Earth to the Moon|-|Tom Hanks, Nick Searcy|8.5|12,004|1998|https://www.imdb.com/title/tt0120570/
+1439629|Show|Community|-|Joel McHale, Danny Pudi|8.5|248,073|2009|https://www.imdb.com/title/tt1439629/
+4093826|Show|Twin Peaks|-|Kyle MacLachlan, Sheryl Lee|8.5|64,448|2017|https://www.imdb.com/title/tt4093826/
+5897304|Show|Mob Psycho 100|-|Setsuo Ito, Takahiro Sakurai|8.5|25,400|2016|https://www.imdb.com/title/tt5897304/
+0995832|Show|Generation Kill|-|Alexander Skarsgård, James Ransone|8.5|51,714|2008|https://www.imdb.com/title/tt0995832/
+3230854|Show|Διαστημική Συνωμοσία|-|Steven Strait, Dominique Tipper|8.5|143,078|2015|https://www.imdb.com/title/tt3230854/
+2401256|Show|The Night Of|-|Riz Ahmed, John Turturro|8.5|141,515|2016|https://www.imdb.com/title/tt2401256/
+1230180|Show|Εκνευρισμένος Gamer|-|James Rolfe, Mike Matei|8.4|14,703|2004|https://www.imdb.com/title/tt1230180/
+3526078|Show|Schitt's Creek|-|Eugene Levy, Catherine O'Hara|8.4|109,189|2015|https://www.imdb.com/title/tt3526078/
+4295140|Show|Στο Τραπέζι του Σεφ|-|Massimo Bottura, Francis Mallmann|8.4|14,979|2015|https://www.imdb.com/title/tt4295140/
+0047708|Show|Alfred Hitchcock Presents|-|Alfred Hitchcock, Harry Tyler|8.4|16,654|1955|https://www.imdb.com/title/tt0047708/
+3920596|Show|Μυστικά και Ψέματα|-|Reese Witherspoon, Nicole Kidman|8.4|185,055|2017|https://www.imdb.com/title/tt3920596/
+2433738|Show|Wentworth|-|Kate Atkinson, Katrina Milosevic|8.4|21,416|2013|https://www.imdb.com/title/tt2433738/
+5675620|Show|Ο Τιμωρός της Marvel|-|Jon Bernthal, Amber Rose Revah|8.4|215,149|2017|https://www.imdb.com/title/tt5675620/
+1710308|Show|Regular Show|-|J.G. Quintel, William Salyers|8.4|38,670|2009|https://www.imdb.com/title/tt1710308/
+2937900|Show|The Knick|-|André Holland, Clive Owen|8.4|47,274|2014|https://www.imdb.com/title/tt2937900/
+0472027|Show|John Adams|-|Paul Giamatti, Laura Linney|8.4|31,688|2008|https://www.imdb.com/title/tt0472027/
+5249462|Show|Boku dake ga inai machi|-|Ben Diskin, Tao Tsuchiya|8.4|41,213|2016|https://www.imdb.com/title/tt5249462/
+0262150|Show|Black Books|-|Dylan Moran, Bill Bailey|8.4|57,438|2000|https://www.imdb.com/title/tt0262150/
+6958022|Show|The Defiant Ones|-|Dr. Dre, Bono|8.4|13,834|2017|https://www.imdb.com/title/tt6958022/
+0103584|Show|X-Men|-|Cedric Smith, Cal Dodd|8.4|41,168|1992|https://www.imdb.com/title/tt0103584/
+2306299|Show|Βίκινγκ|-|Katheryn Winnick, Gustaf Skarsgård|8.4|496,270|2013|https://www.imdb.com/title/tt2306299/
+10155688|Show|Mare of Easttown|-|Kate Winslet, Julianne Nicholson|8.4|135,983|2021|https://www.imdb.com/title/tt10155688/
+5071412|Show|Όζαρκ|-|Jason Bateman, Laura Linney|8.4|257,326|2017|https://www.imdb.com/title/tt5071412/
+12451520|Show|Είναι ΟΚ να μην Είσαι ΟΚ|-|Kim Soo-hyun, Seo Ye-Ji|8.4|19,625|2020|https://www.imdb.com/title/tt12451520/
+7658402|Show|Harley Quinn|-|Kaley Cuoco, Lake Bell|8.4|22,077|2019|https://www.imdb.com/title/tt7658402/
+0397150|Show|Garth Marenghi's Darkplace|-|Richard Ayoade, Matt Berry|8.4|17,738|2004|https://www.imdb.com/title/tt0397150/
+7472896|Show|Mr Inbetween|-|Scott Ryan, Chika Yasumura|8.4|14,645|2018|https://www.imdb.com/title/tt7472896/
+5425186|Show|Horace and Pete|-|Louis C.K., Steve Buscemi|8.4|16,235|2016|https://www.imdb.com/title/tt5425186/
+1299368|Show|Southland|-|Michael Cudlitz, Shawn Hatosy|8.4|25,872|2009|https://www.imdb.com/title/tt1299368/
+3895150|Show|Shigatsu wa kimi no uso|-|Natsuki Hanae, Risa Taneda|8.4|25,469|2014|https://www.imdb.com/title/tt3895150/
+0043208|Show|ΑΣΠΡΟ - ΜΑΥΡΟ: I LOVE LUCY|-|Lucille Ball, Desi Arnaz|8.4|25,489|1951|https://www.imdb.com/title/tt0043208/
+7278862|Show|Η υπέροχη φίλη μου|-|Alba Rohrwacher, Margherita Mazzucco|8.4|12,665|2018|https://www.imdb.com/title/tt7278862/
+3428912|Show|Χάπι Βάλεϊ|-|Sarah Lancashire, Siobhan Finneran|8.4|37,882|2014|https://www.imdb.com/title/tt3428912/
+9561862|Show|Έρωτας, Θάνατος & Ρομπότ|-|Scott Whyte, Nolan North|8.4|132,287|2019|https://www.imdb.com/title/tt9561862/
+0310455|Show|Foyle's War|-|Michael Kitchen, Honeysuckle Weeks|8.4|14,566|2002|https://www.imdb.com/title/tt0310455/
+1442437|Show|Μοντέρνα Οικογένεια|-|Ed O'Neill, Sofía Vergara|8.4|403,281|2009|https://www.imdb.com/title/tt1442437/
+0075520|Show|Ο Ιησούς από τη Ναζαρέτ|-|Robert Powell, Olivia Hussey|8.4|21,668|1977|https://www.imdb.com/title/tt0075520/
+11301642|Show|Ethos|-|Öykü Karayel, Fatih Artman|8.4|25,655|2020|https://www.imdb.com/title/tt11301642/
+1474684|Show|Luther|-|Idris Elba, Dermot Crowley|8.4|132,344|2010|https://www.imdb.com/title/tt1474684/
+1227926|Show|Dr|-|Neil Patrick Harris, Nathan Fillion|8.4|43,052|2008|https://www.imdb.com/title/tt1227926/
+0421291|Show|Avrupa Yakasi|-|Gülse Birsel, Levent Üzümcü|8.4|17,989|2004|https://www.imdb.com/title/tt0421291/
